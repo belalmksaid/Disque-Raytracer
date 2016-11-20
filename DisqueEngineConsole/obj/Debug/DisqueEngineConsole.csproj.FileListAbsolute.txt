@@ -1,0 +1,10 @@
+c:\users\belal\documents\visual studio 2015\Projects\DisqueEngineConsole\DisqueEngineConsole\bin\Debug\DisqueEngineConsole.exe.config
+c:\users\belal\documents\visual studio 2015\Projects\DisqueEngineConsole\DisqueEngineConsole\bin\Debug\DisqueEngineConsole.exe
+c:\users\belal\documents\visual studio 2015\Projects\DisqueEngineConsole\DisqueEngineConsole\bin\Debug\DisqueEngineConsole.pdb
+c:\users\belal\documents\visual studio 2015\Projects\DisqueEngineConsole\DisqueEngineConsole\obj\Debug\DisqueEngineConsole.csprojResolveAssemblyReference.cache
+c:\users\belal\documents\visual studio 2015\Projects\DisqueEngineConsole\DisqueEngineConsole\obj\Debug\DisqueEngineConsole.exe
+c:\users\belal\documents\visual studio 2015\Projects\DisqueEngineConsole\DisqueEngineConsole\obj\Debug\DisqueEngineConsole.pdb
+C:\Users\Belal\Documents\Visual Studio 2015\Projects\DisqueEngineConsole\DisqueEngineConsole\bin\Debug\DisqueEngine.Math.dll
+C:\Users\Belal\Documents\Visual Studio 2015\Projects\DisqueEngineConsole\DisqueEngineConsole\bin\Debug\DisqueEngine.Raytracer.dll
+C:\Users\Belal\Documents\Visual Studio 2015\Projects\DisqueEngineConsole\DisqueEngineConsole\bin\Debug\DisqueEngine.Math.pdb
+C:\Users\Belal\Documents\Visual Studio 2015\Projects\DisqueEngineConsole\DisqueEngineConsole\bin\Debug\DisqueEngine.Raytracer.pdb

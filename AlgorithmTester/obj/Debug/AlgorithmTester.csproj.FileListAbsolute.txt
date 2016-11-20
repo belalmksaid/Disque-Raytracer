@@ -1,0 +1,6 @@
+C:\Users\Belal\documents\visual studio 2015\Projects\DisqueEngineConsole\AlgorithmTester\bin\Debug\AlgorithmTester.exe.config
+C:\Users\Belal\documents\visual studio 2015\Projects\DisqueEngineConsole\AlgorithmTester\bin\Debug\AlgorithmTester.exe
+C:\Users\Belal\documents\visual studio 2015\Projects\DisqueEngineConsole\AlgorithmTester\bin\Debug\AlgorithmTester.pdb
+C:\Users\Belal\documents\visual studio 2015\Projects\DisqueEngineConsole\AlgorithmTester\obj\Debug\AlgorithmTester.csprojResolveAssemblyReference.cache
+C:\Users\Belal\documents\visual studio 2015\Projects\DisqueEngineConsole\AlgorithmTester\obj\Debug\AlgorithmTester.exe
+C:\Users\Belal\documents\visual studio 2015\Projects\DisqueEngineConsole\AlgorithmTester\obj\Debug\AlgorithmTester.pdb
